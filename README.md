@@ -26,7 +26,7 @@ First group assignment.
 6. What does the variable bacon contain after the following code runs? bacon = 20
 bacon + 1
   
-21
+  21
 
 7. What should the following two expressions evaluate to?
  'spam' + 'spamspam'  equals  'spamspamspam' & 'spam' * 3 equals 'spamspamspam'
