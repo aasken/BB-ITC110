@@ -12,13 +12,10 @@ First group assignment.
   g)5 Value
 
 2. Which of the following is a variable, and which is a string?
-  spam Variable
-  'spam' String
+  spam Variable  &  'spam' String
 
 3. Name three data types.
-  Integers
-  Floating Point Number
-  Strings
+  Integers, Floating Point Number, Strings
 
 4. What is an expression made up of? What do all expressions do?
   Expressions consist of values and operators. Expressions evaluate (or reduce) down to a single value.
