@@ -3,13 +3,13 @@ First group assignment.
 
 
 1. Which of the following are operators, and which are values?
-  *
-  'hello'
-  -88.8
-  -
-  /
-  +
-  5
+  a)*
+  b)'hello'
+  c)-88.8
+  d)-
+  e)/
+  f)+
+  g)5
 
 2. Which of the following is a variable, and which is a string?
   spam 'spam'
