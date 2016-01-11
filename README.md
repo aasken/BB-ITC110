@@ -1,6 +1,8 @@
 # 28.1-8
 First group assignment.
 
+
+
 1. Which of the following are operators, and which are values?
  *
  'hello'
