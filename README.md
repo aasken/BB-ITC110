@@ -25,11 +25,11 @@ First group assignment.
 
 6. What does the variable bacon contain after the following code runs? bacon = 20
 bacon + 1
-  21
+  
+21
 
 7. What should the following two expressions evaluate to?
- 'spam' + 'spamspam'   'spamspamspam'
- 'spam' * 3           'spamspamspam'
+ 'spam' + 'spamspam'  equals  'spamspamspam' & 'spam' * 3 equals 'spamspamspam'
 
 8. Why is eggs a valid variable name while 100 is invalid?
  Variables can not begin with a number.
