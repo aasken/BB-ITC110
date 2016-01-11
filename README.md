@@ -12,7 +12,7 @@ First group assignment.
   g)5 Value
 
 2. Which of the following is a variable, and which is a string?
-  spam Variable  &  'spam' String
+  spam is a Variable  &  'spam' is a String
 
 3. Name three data types.
   Integers, Floating Point Number, Strings
